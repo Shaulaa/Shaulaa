@@ -1,10 +1,14 @@
 <!-- GitHub profile README for github.com/shaulaa -->
 
+<h1 align="center">hey, rafif here.</h1>
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=shaulaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135608810%3Fv%3D4" alt="Rafif Shula Syandana · GitHub profile" />
+  informatics student · web developer · curious builder
+</p>
+<p align="center">
+  <a href="https://syandana.my.id">portfolio</a> · <a href="https://github.com/shaulaa">github</a>
 </p>
 
-## hey, rafif here.
+## about me
 
 I am **Rafif Shula Syandana**, an informatics student and web developer from Indonesia.
 
@@ -62,24 +66,7 @@ Other projects and experiments from my GitHub profile.
 [fixin](https://github.com/Shaulaa/fixin) · [cinevra-](https://github.com/Shaulaa/cinevra-)
 </details>
 
-## github activity
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=shaulaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135608810%3Fv%3D4" alt="shaulaa GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=shaulaa&theme=zen" alt="shaulaa contribution activity" />
-</p>
-
 ## find me online
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=shaulaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135608810%3Fv%3D4" alt="shaulaa social links" />
-</p>
-
-<p align="center">
-  <a href="https://syandana.my.id">website</a> · <a href="https://github.com/shaulaa">github</a>
-</p>
-
-<p align="center"><sub>visuals by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+- [Portfolio](https://syandana.my.id)
+- [GitHub](https://github.com/shaulaa)
