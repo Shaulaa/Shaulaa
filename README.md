@@ -1,75 +1,85 @@
-<!--
-  SH AULA A / REPOSITORY GALAXY
-  Free, original GitHub profile README.
-  Place both SVG files inside the assets/ directory.
--->
+<!-- GitHub profile README for github.com/shaulaa -->
 
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Rafif Shula Syandana, creative developer, minimalist space banner" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=shaulaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135608810%3Fv%3D4" alt="Rafif Shula Syandana · GitHub profile" />
+</p>
 
-  <br />
+## hey, rafif here.
 
-  <a href="https://www.syandana.my.id/">PORTFOLIO</a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://github.com/Shaulaa?tab=repositories">REPOSITORIES</a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://github.com/Shaulaa">GITHUB</a>
+I am **Rafif Shula Syandana**, an informatics student and web developer from Indonesia.
 
-  <br /><br />
-  <sub>Informatics student · Web development · Machine learning · Creative coding</sub>
-</div>
+I enjoy building websites that feel good to use, experimenting with interactive experiences, and figuring out how things work behind the scenes. Most of my time goes into **web development**, with a growing interest in **machine learning** and **computer vision**.
 
-<br />
+> building, learning, breaking things, fixing them. usually with coffee.
 
-### `01 / ABOUT THE EXPLORER`
+[Portfolio](https://syandana.my.id) · [GitHub](https://github.com/shaulaa)
 
-Hey, I'm **Rafif Shula Syandana**, an Informatics student exploring the space between **software engineering and visual storytelling**. I enjoy building practical web applications and experimenting with interfaces that feel a little different.
+## currently building
 
-Currently exploring **Laravel**, **JavaScript**, **Python**, and the little details that make the web memorable.
+- **Syandana Lunar World** · An in-progress interactive 3D portfolio set on the moon, with playful low-poly visuals and driving. Adapted from [Bruno Simon Folio 2019](https://bruno-simon.com/).
+- **SMA Purnama website** · A Laravel-based school website and CMS for managing school information, content, and announcements as part of a community project.
+- **Computer vision experiments** · Learning image processing with OpenCV and object detection with YOLOv8.
 
-<br />
+## tools & technologies
 
-### `02 / THE REPOSITORY GALAXY`
+**Web development**  
+`HTML` · `CSS` · `JavaScript` · `PHP` · `Laravel` · `MySQL`
 
-<div align="center">
-  <a href="https://github.com/Shaulaa?tab=repositories">
-    <img src="./assets/repository-galaxy.svg" width="100%" alt="A galaxy-inspired map featuring Trackify, Eighty Six, Velvid, Data Mining, Health Outcome Prediction, and Ventora" />
-  </a>
-  <br />
-  <sub>A visual map of selected public repositories. Select a project below to explore its source.</sub>
-</div>
+**Currently exploring**  
+`TypeScript` · `Python` · `Jupyter Notebook` · `OpenCV` · `YOLOv8`
 
-<br />
+## selected projects
 
-| SIGNAL | PROJECT | FIELD NOTES |
-| :--- | :--- | :--- |
-| `01` | [**Trackify**](https://github.com/Shaulaa/trackify-daily-tracker) | A habit tracker inspired by *Atomic Habits*. |
-| `02` | [**Eighty Six**](https://github.com/Shaulaa/eighty-six) | A cinematic fan-made website inspired by the anime *86 Eighty-Six*. |
-| `03` | [**Velvid**](https://github.com/Shaulaa/velvid) | A local web-based video downloader using Node.js, Express, yt-dlp, and FFmpeg. |
-| `04` | [**Data Mining**](https://github.com/Shaulaa/data-mining) | Python notebooks covering similarity, classification, and ensemble methods. |
-| `05` | [**Health Outcome Prediction**](https://github.com/Shaulaa/health-outcome-prediction.ipynb) | A machine learning experiment using decision trees to predict diabetes risk. |
-| `06` | [**Ventora**](https://github.com/Shaulaa/ventora-coffe) | Another project in the collection. |
+<details>
+<summary><b>retro-stack</b> · browser game</summary>
 
-<br />
+A retro arcade-style puzzle game with Marathon and Sprint 40 modes, built with vanilla HTML, CSS, and JavaScript.
 
-### `03 / TOOLKIT`
+[Explore repository](https://github.com/Shaulaa/retro-stack)
+</details>
 
-```text
-WEB         HTML · CSS · JavaScript · PHP · Laravel
-DATA        Python · Jupyter Notebook · Machine Learning
-INTERESTS   Interface Design · Creative Coding · Web Experiences
-```
+<details>
+<summary><b>health-outcome-prediction.ipynb</b> · machine learning</summary>
 
-<br />
+A notebook exploring diabetes risk prediction using a Decision Tree model.
 
-### `04 / OPEN CHANNEL`
+[Explore repository](https://github.com/Shaulaa/health-outcome-prediction.ipynb)
+</details>
 
-<div align="center">
-  <p><i>Somewhere between code and cosmos, there is always something new to build.</i></p>
-  <p>
-    <a href="https://www.syandana.my.id/"><b>ENTER THE PORTFOLIO ↗</b></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Shaulaa?tab=repositories"><b>EXPLORE ALL PROJECTS ↗</b></a>
-  </p>
-  <sub>Designed to stay minimal. Built to keep evolving.</sub>
-</div>
+<details>
+<summary><b>ventora-coffe</b> · TypeScript</summary>
+
+A TypeScript repository from my web development practice.
+
+[Explore repository](https://github.com/Shaulaa/ventora-coffe)
+</details>
+
+<details>
+<summary><b>more experiments</b> · JavaScript</summary>
+
+Other projects and experiments from my GitHub profile.
+
+[fixin](https://github.com/Shaulaa/fixin) · [cinevra-](https://github.com/Shaulaa/cinevra-)
+</details>
+
+## github activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=shaulaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135608810%3Fv%3D4" alt="shaulaa GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=shaulaa&theme=zen" alt="shaulaa contribution activity" />
+</p>
+
+## find me online
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=shaulaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135608810%3Fv%3D4" alt="shaulaa social links" />
+</p>
+
+<p align="center">
+  <a href="https://syandana.my.id">website</a> · <a href="https://github.com/shaulaa">github</a>
+</p>
+
+<p align="center"><sub>visuals by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
